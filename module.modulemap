@@ -1,5 +1,5 @@
 module Clibgrabdevice [system] {
-  header "/usr/local/include/libgrabdevice/libgrabdevice.h"
-  link "libgrabdevice"
+  header "/usr/local/include/grabdevice.h"
+  link "grabdevice"
   export *
 }
